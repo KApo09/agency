@@ -4,20 +4,20 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "animate.css": "^3.5.2",
+    "animate.css": "^3.7.0",
     "bootstrap": "^3.3.7",
-    "color": "^2.0.0",
-    "gatsby": "^1.6.5",
-    "gatsby-link": "^1.6.5",
-    "gatsby-plugin-netlify-cms": "^1.0.5",
-    "gatsby-plugin-nprogress": "^1.0.7",
-    "gatsby-plugin-react-helmet": "^1.0.1",
-    "gatsby-source-filesystem": "^1.5.16",
-    "gatsby-transformer-remark": "^1.7.30",
-    "gsap": "^1.20.2",
-    "radium": "^0.19.4",
+    "color": "^2.0.1",
+    "gatsby": "^1.9.279",
+    "gatsby-link": "^1.6.46",
+    "gatsby-plugin-netlify-cms": "^1.0.12",
+    "gatsby-plugin-nprogress": "^1.0.14",
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-remark": "^1.7.44",
+    "gsap": "^1.20.6",
+    "radium": "^0.19.6",
     "react-reveal": "^0.1.1",
-    "scrollmagic": "^2.0.5"
+    "scrollmagic": "^2.0.6"
   },
   "keywords": [
     "gatsby"
@@ -29,12 +29,10 @@
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "heroku-postbuild": "gatsby build"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1",
-    "prettier": "^1.5.2"
+    "prettier": "^1.14.3"
   },
   "overrides": {
     "gsap": {
