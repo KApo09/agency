@@ -27,11 +27,10 @@ const ServicesShelf = () =>
     <div className="container">
       <div className="row">
         <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={web} description="Web development" /></div>
-        <div style={styles.col} className="clearfix visible-xs-block"></div>
-        <div style={styles.col} className="clearfix visible-sm-block visible-md-block"></div>
         <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={app} description="App development" /></div>
-        <div style={styles.col} className="clearfix visible-xs-block"></div>
+        <div className="clearfix visible-xs-block"></div>
         <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={dev} description="Deployment" /></div>
+        <div className="clearfix visible-sm-block visible-md-block"></div>
       </div>
     </div>
 
