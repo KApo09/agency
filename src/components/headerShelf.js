@@ -3,8 +3,8 @@ import Link from 'gatsby-link';
 import Radium from 'radium';
 
 import bg from '../assets/header-bg-2500.jpg';
-import logo from '../assets/logo.png';
-// import logo from '../assets/logoAmsel.png';
+// import logo from '../assets/logo.png';
+import logoAmsel from '../assets/logoAmsel.png';
 import bgn from '../assets/pexels-photo-459653.jpeg';
 // import bgn2 from '../assets/apple-black-white.jpeg';
 
@@ -14,7 +14,7 @@ const HeaderShelf = () =>
       <div style={{ display: "table", width: "100%", height: "100%" }}>
         <div style={{ display: "table-cell", verticalAlign: "middle" }}>
           <div id="logo-strapline">
-            <img id="logo" src={logo} style={styles.logo} />
+            <img id="logo" src={logoAmsel} style={styles.logo} />
             <hr style={styles.hr} />
             <h1 id="strapline" style={styles.h1}>Freelance Developers<br />Chosen by Google working for you</h1>
           </div>

@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 
 import logo from '../../assets/logo.png';
+import logoAmsel from '../../assets/logoAmsel.png';
 
 class PageHeader extends React.Component{
 
@@ -12,7 +13,7 @@ class PageHeader extends React.Component{
   render(){
 
     return (<section className="cover" style={Object.assign({},styles.section, { backgroundImage: 'url(' + this.props.bg + ')', backgroundPosition: 'center center' })}>
-      <Link to="/"><img src={logo} style={styles.logo} /></Link>
+      <Link to="/"><img src={logoAmsel} style={styles.logo} /></Link>
     </section>);
 
   }

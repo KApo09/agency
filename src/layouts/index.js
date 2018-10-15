@@ -15,13 +15,11 @@ const TemplateWrapper = ({ children }) =>
   <StyleRoot>
     <div>
       <Helmet
-        title="Etcetera Design - Freelance Graphic & Website Design Manchester"
+        title="Amsel Labs - quality developers for you"
         meta={[
-          { name: 'description', content: 'Freelance design by Stephanie Slater' },
-          { name: 'keywords', content: 'freelance, design, stephanie, slater, etcetera, manchester, web, print, logo, app' },
+          { name: 'description', content: 'Freelance design by Amsel labs' },
+          { name: 'keywords', content: 'freelance, development, amsel, labs, react, web, app' },
           { name: 'viewport', content: 'width=device-width, initial-scale=1, minimum-scale=1' },
-          { name: 'google-site-verification', content: 'buFnXr2SgmLwtjnQJNezh7mEMaEIf1nlpjVOX-3Y76k' },
-          { property: 'og:image', content: 'https://etcetera.design/feature-photo.jpg' }
         ]}
       />
       <div>
