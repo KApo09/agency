@@ -1,0 +1,110 @@
+{
+  "assetsByChunkName": {
+    "path---victoria-ingram-blog": [
+      "path---victoria-ingram-blog-b3c91fd2520a6e7ecf6d.js",
+      "path---victoria-ingram-blog-b3c91fd2520a6e7ecf6d.js.map"
+    ],
+    "path---human-appeal-report": [
+      "path---human-appeal-report-07a51344349638e9323e.js",
+      "path---human-appeal-report-07a51344349638e9323e.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-5e8cbfc2cde927aa2dff.js",
+      "component---src-pages-index-js-5e8cbfc2cde927aa2dff.js.map"
+    ],
+    "path---mercury": [
+      "path---mercury-5b2a175563a07d406a62.js",
+      "path---mercury-5b2a175563a07d406a62.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "cms": [
+      "cms-ce032aebe3bda77075dd.js",
+      "build-js-styles.css",
+      "cms.css",
+      "cms-ce032aebe3bda77075dd.js.map",
+      "build-js-styles.css.map",
+      "cms.css.map"
+    ],
+    "path---profix": [
+      "path---profix-d6e5bf820a81767daa77.js",
+      "path---profix-d6e5bf820a81767daa77.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-1363495995d1de99c033.js",
+      "component---src-layouts-index-js-1363495995d1de99c033.js.map"
+    ],
+    "path---reebok-project": [
+      "path---reebok-project-a0e39f21c11f6a62c5ab.js",
+      "path---reebok-project-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-f65d948393676b2dc031.js",
+      "path---index-f65d948393676b2dc031.js.map"
+    ],
+    "component---src-templates-project-template-js": [
+      "component---src-templates-project-template-js-d3ec3efea99b7b37d1ac.js",
+      "component---src-templates-project-template-js-d3ec3efea99b7b37d1ac.js.map"
+    ],
+    "path---open-market-presentation": [
+      "path---open-market-presentation-8911a8bd4638c4f20c16.js",
+      "path---open-market-presentation-8911a8bd4638c4f20c16.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-183d969a5e5172292916.js",
+      "commons-183d969a5e5172292916.js.map"
+    ],
+    "path---buffalo-7-infographic": [
+      "path---buffalo-7-infographic-d567becd28b188a7bff7.js",
+      "path---buffalo-7-infographic-d567becd28b188a7bff7.js.map"
+    ],
+    "path---thelittlelentil": [
+      "path---thelittlelentil-f38933c3b718bdf8ada9.js",
+      "path---thelittlelentil-f38933c3b718bdf8ada9.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-reebok-project-js": [
+      "component---src-pages-reebok-project-js-c9dfe55d2a018da42593.js",
+      "component---src-pages-reebok-project-js-c9dfe55d2a018da42593.js.map"
+    ],
+    "app": [
+      "app-d98b7834cbb985ff6f48.js",
+      "build-js-styles.css",
+      "app-d98b7834cbb985ff6f48.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---jamies-veg-patch": [
+      "path---jamies-veg-patch-e5504d8ab4dbfc16a30f.js",
+      "path---jamies-veg-patch-e5504d8ab4dbfc16a30f.js.map"
+    ],
+    "path---festival-of-you": [
+      "path---festival-of-you-851bfd5bc250ccc8bccc.js",
+      "path---festival-of-you-851bfd5bc250ccc8bccc.js.map"
+    ],
+    "path---push-your-app": [
+      "path---push-your-app-85bd7266902c2a9462b4.js",
+      "path---push-your-app-85bd7266902c2a9462b4.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---federal-cafe": [
+      "path---federal-cafe-a9ba5e419e4d3997b315.js",
+      "path---federal-cafe-a9ba5e419e4d3997b315.js.map"
+    ],
+    "path---grade-barbers": [
+      "path---grade-barbers-ac8f2cad64d2d84f14ba.js",
+      "path---grade-barbers-ac8f2cad64d2d84f14ba.js.map"
+    ]
+  }
+}

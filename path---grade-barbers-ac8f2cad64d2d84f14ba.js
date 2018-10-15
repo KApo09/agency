@@ -1,0 +1,2 @@
+webpackJsonp([0xf9eade6087a3],{328:function(a,e){a.exports={data:{markdownRemark:{html:"",frontmatter:{path:"/grade-barbers",title:"Grade Barbers Branding",date:"2018-02-14T14:37:04.028Z",description:"Branding project for a luxury barbers on Deansgate, Manchester.",headerBG:"/img/mainfsimage.jpg",images:["/img/imagesfd2.jpg","/img/imagse3.jpg","/img/024.dual macbookpro (3).jpg"],prevPageName:"/profix",nextPageName:"/push-your-app"}}},pathContext:{}}}});
+//# sourceMappingURL=path---grade-barbers-ac8f2cad64d2d84f14ba.js.map
