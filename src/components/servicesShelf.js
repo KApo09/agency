@@ -23,18 +23,15 @@ const circleColour = "#f5f6f7";
 
 const ServicesShelf = () => 
   <section className="diagonal anticlockwise" style={styles.section}>
-    <SectionHeading title="My Services?" smallText="What are" />
+    <SectionHeading title="Our Services?" smallText="What are" />
     <div className="container">
       <div className="row">
-        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={web} description="Web design" /></div>
-        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={print} description="Print & Brochure design" /></div>
+        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={web} description="Web development" /></div>
         <div style={styles.col} className="clearfix visible-xs-block"></div>
-        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={logo} description="Logos & branding" /></div>
         <div style={styles.col} className="clearfix visible-sm-block visible-md-block"></div>
-        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={app} description="App design" /></div>
+        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={app} description="App development" /></div>
         <div style={styles.col} className="clearfix visible-xs-block"></div>
-        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={presentation} description="Presentation design" /></div>
-        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={dev} description="Arrangement of printing and web/app development" /></div>
+        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={dev} description="Deployment" /></div>
       </div>
     </div>
 

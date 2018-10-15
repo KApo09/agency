@@ -4,8 +4,9 @@ import Radium from 'radium';
 
 import bg from '../assets/header-bg-2500.jpg';
 import logo from '../assets/logo.png';
+// import logo from '../assets/logoAmsel.png';
 import bgn from '../assets/pexels-photo-459653.jpeg';
-// import bgn2 from '../assets/apple-black-and-white-computer-129208.jpeg';
+// import bgn2 from '../assets/apple-black-white.jpeg';
 
 const HeaderShelf = () =>
   <section id="header-section" style={styles.sectionLong}>

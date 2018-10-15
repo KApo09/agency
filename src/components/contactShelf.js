@@ -20,10 +20,10 @@ const ContactShelf = () =>
     <SectionHeading style={{color: "white"}} title="Have A Chat?" smallText="Want to" />
     <div className="container">
       <div className="row text-center">
-        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={email} circleColour="#7FB9FF" textColor="white" description="steph@etcetera.design" /></div>
-        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={phone} circleColour="#7FB9FF" textColor="white" description="07875261339" /></div>
+        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={email} circleColour="#7FB9FF" textColor="white" description="norman.saade@gmail.com" /></div>
+        <div style={styles.col} className="col-xs-6 col-sm-4"><CircleIcon iconURL={phone} circleColour="#7FB9FF" textColor="white" description="+491602584882" /></div>
         <div className="clearfix visible-xs-block"></div>
-        <div style={styles.col} className="col-xs-6 col-sm-4 col-centered"><CircleIcon iconURL={social} circleColour="#7FB9FF" textColor="white" description="@_etceteradesign" /></div>
+        <div style={styles.col} className="col-xs-6 col-sm-4 col-centered"><CircleIcon iconURL={social} circleColour="#7FB9FF" textColor="white" description="@amsellabs" /></div>
         <div className="clearfix visible-sm-block visible-md-block"></div>
       </div>
     </div>

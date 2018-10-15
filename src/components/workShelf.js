@@ -8,6 +8,7 @@ import ProjectScreenshot from './projectScreenshot';
 
 import SectionHeading from "./sectionHeading";
 
+import carl from '../assets/smartmockups_jn9ef17i.jpg';
 import reebok1 from '../assets/work/reebok1.jpg';
 import buffalo1 from '../assets/work/buffalo7-1.png';
 import federal1 from '../assets/work/federal1.jpg';
@@ -91,20 +92,20 @@ class WorkShelf extends React.Component {
     // <div id="project6" style={styles.screenshot}><Link to="/mercury"><ProjectScreenshot screenshotURL={mercury1} description="Mercury Logistics" /></Link></div>
 
     return (<section id="work-section" className="diagonal clockwise" style={styles.section}>
-      <SectionHeading title="Some Of My Work" smallText="Have a look at" />
+      <SectionHeading title="Some Of Our Work" smallText="Have a look at" />
 
       <div className="container-fluid" style={styles.container}>
         <div className="row no-gutters">
           <div className="col-sm-6">
             <div id="featured-image" style={styles.shadowImage}>
               <span style={styles.imageBefore}></span>
-              <Link to="/reebok-project"><img src={reebok1} style={styles.featuredImage} /></Link>
+              <a href="http://staging-investor.carlfinance.de" target="_blank" rel="noopener noreferrer"><img src={carl} style={styles.featuredImage} /></a>
             </div>
           </div>
           <div id="featured-info" className="col-sm-6" style={styles.rightHalf}>
-            <Link to="/reebok-project" className="specialHeading" style={{fontSize: "18px"}}>FEATURED: Carl Finance</Link>
-            <p style={styles.p}>A presentation designed for a showcase on sexism in sport. The concept evolved from the idea of women ‘breaking’ and ‘tearing’ away from previous stereotypes that have caused their subordination in sports, even in the 21st century.</p>
-            <p style={styles.p}>Click the link for more images of the project.</p>
+            <a href="http://staging-investor.carlfinance.de" target="_blank" rel="noopener noreferrer" className="specialHeading" style={{fontSize: "18px"}}>FEATURED: Carl Finance</a>
+            <p style={styles.p}>Developed a fully responsive onboarding tool based on react. Features such as internationalization and input validations were implemented with ease.</p>
+            <p style={styles.p}>Click the link to see the tool in action.</p>
           </div>
         </div>
       </div>
@@ -146,7 +147,7 @@ styles.imageBefore = {
   height: "92%",
   top: "-6%",
   left: 0,
-  background: "#a8e4bc",
+  background: "#a8c4e4",
   zIndex: -1
 }
 
