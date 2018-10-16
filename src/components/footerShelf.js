@@ -29,7 +29,7 @@ class FooterShelf extends React.Component{
             <li style={styles.li}><a style={styles.a} href="#"><img src={instagram} /></a></li>
             <li style={styles.li}><a style={styles.a} href="#"><img src={pinterest} /></a></li>
           </ul>
-          <p style={styles.p}>Copyright 2017 &copy; Andrei Dorian Duma</p>
+          <p style={styles.p}>Copyright 2018 &copy; Andrei Dorian Duma</p>
           <p style={styles.pSmall}>Developed by Norman Saade</p>
         </div>
 
